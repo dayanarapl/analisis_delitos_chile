@@ -41,8 +41,12 @@ El análisis se presenta mediante un dashboard interactivo desarrollado en Table
 
 ## Principales hallazgos
 
-- *(Completar una vez finalizado el dashboard. Ejemplo: Se observa un aumento relativo de los delitos violentos en determinadas regiones posterior al período pandémico.)*
-
+- La cantidad total de DMCS disminuye levemente comparando el 2016 y 2024 (-9,8%), lo que indica que no hay un aumento generalizado del delito, sino cambios en su composición.
+- El índice de severidad alcanza un 48,3%, lo que sugiere una alta participación relativa de delitos violentos dentro del total de delitos analizados, especialmente en el período post pandemia.
+- Tras la baja que se dio en la pandemia, se observa un repunte de los delitos para 2024, recuperando niveles cercanos a los de 2016.
+- Los robos concentran la mayor parte de los DMCS en todos los períodos, destacando el robo en lugar habitado y no habitado como las tipologías más frecuentes a lo largo del tiempo.
+- La Región Metropolitana concentra una proporción significativamente mayor de delitos en comparación con el resto del país.
+  
 ---
 
 
