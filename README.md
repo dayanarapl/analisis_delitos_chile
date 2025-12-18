@@ -34,8 +34,7 @@ El proceso de preparación de datos incluyó las siguientes etapas:
 ## Visualización
 
 El análisis se presenta mediante un dashboard interactivo desarrollado en Tableau, disponible en el siguiente enlace:
-
-*[ENLACE AL DASHBOARD PÚBLICO]*
+*https://public.tableau.com/views/AnlisisdeDelitosDMCSChile2016-2024/Dashboard1?:language=es-ES&:sid=&:redirect=auth&publish=yes&showOnboarding=true&:display_count=n&:origin=viz_share_link*
 
 ---
 
