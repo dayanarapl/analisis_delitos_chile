@@ -39,7 +39,7 @@ El análisis se presenta mediante un dashboard interactivo desarrollado en Table
 
 ---
 
-## 💡 Principales hallazgos
+## Principales hallazgos
 
 - *(Completar una vez finalizado el dashboard. Ejemplo: Se observa un aumento relativo de los delitos violentos en determinadas regiones posterior al período pandémico.)*
 
